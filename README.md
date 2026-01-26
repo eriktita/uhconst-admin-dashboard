@@ -17,22 +17,6 @@ A premium, high-performance admin dashboard designed for managing construction c
 
 ---
 
-## 📋 Table of Contents
-
-- [Overview](#-overview)
-- [Key Features](#-key-features)
-- [Tech Stack](#-tech-stack)
-- [Screenshots](#-screenshots)
-- [Getting Started](#-getting-started)
-- [Project Structure](#-project-structure)
-- [Deployment](#-deployment)
-- [Roadmap](#-roadmap)
-- [Contributing](#-contributing)
-- [License](#-license)
-- [Contact](#-contact)
-
----
-
 ## 📋 Overview
 
 **UHCONST** (Ultimate Construction Intelligence) is a comprehensive digital infrastructure designed to streamline construction analytics. This repository contains the **Admin Panel**, a robust front-end interface that allows administrators to oversee the platform's core functionalities, including calculator management, user tracking, media assets, and system settings.
@@ -84,18 +68,6 @@ This project is built using pure, high-performance web technologies, ensuring ma
 | **Visualization** | **Chart.js** | Responsive and interactive data visualization library. |
 | **Icons** | **Remix Icons** | Professional, open-source icon set. |
 | **Typography** | **Google Fonts** | 'Poppins' typeface for a modern, clean aesthetic. |
-
----
-
-## 📸 Screenshots
-
-| **Dashboard Hub** | **Elite About Page** |
-|:---:|:---:|
-| ![Dashboard](https://via.placeholder.com/600x300?text=Dashboard+Interface) | ![About](https://via.placeholder.com/600x300?text=About+Page+Glassmorphism) |
-
-| **Media Library** | **User Management** |
-|:---:|:---:|
-| ![Media](https://via.placeholder.com/600x300?text=Media+Library) | ![Users](https://via.placeholder.com/600x300?text=User+Management) |
 
 ---
 
@@ -158,7 +130,7 @@ uhconst-admin-dashboard/
 └── README.md              # Documentation
 
 🤝 Contributing
-Contributions are what make the open-source community such an amazing place to learn, inspire, and create. Any contributions you make are greatly appreciated.
+Contributions are what make the open-source community such an amazing place to learn, inspire, and create. We welcome contributions from everyone.
 
 Fork the Project
 
@@ -170,22 +142,23 @@ Push to the Branch (git push origin feature/AmazingFeature)
 
 Open a Pull Request
 
-📄 License
-Distributed under the MIT License. See LICENSE for more information.
+📞 Contact
+Aliza Tariq 
+
+Project Link: https://github.com/aliza-dev/uhconst-admin-dashboard
 
 🙏 Acknowledgments
+A special thanks to the resources and communities that made this project possible:
+
 Icons: Remix Icon
 
 Fonts: Google Fonts
 
 Charts: Chart.js
 
-Inspiration: Modern Admin Dashboard Concepts
+Inspiration: Modern Glassmorphism Design Concepts
 
-<div align="center">
+📄 License
+Distributed under the MIT License. See LICENSE for more information.
 
-UHCONST — Setting the benchmark in construction analytics.
-
-Developed with ❤️ for Builders & Engineers.
-
-</div>
+<div align="center"> <br /> <strong>UHCONST</strong> — Setting the benchmark in construction analytics. <br /> Developed with ❤️ for Builders & Engineers. </div>
