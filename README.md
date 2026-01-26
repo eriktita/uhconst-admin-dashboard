@@ -143,7 +143,7 @@ Push to the Branch (git push origin feature/AmazingFeature)
 Open a Pull Request
 
 📞 Contact
-Aliza Tariq 
+Aliza Tariq - Lead Developer
 
 Project Link: https://github.com/aliza-dev/uhconst-admin-dashboard
 
